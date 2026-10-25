@@ -59,7 +59,7 @@ Asegúrate de tener instalado Python (versión 3.8 o superior). Las siguientes l
 Puedes instalar el paquete directamente desde el repositorio de GitHub usando `pip`:
  
 ```bash
-pip install git+https://github.com/msmejia/mi_paquete1.git
+pip install git+https://github.com/CarlosQNK/mi_paquete1.git
  
 Ejemplo de uso
 Una vez instalado el paquete, puedes importar la función en cualquier script de Python de la siguiente manera:
