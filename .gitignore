@@ -1,0 +1,16 @@
+# Caché de Python
+__pycache__/
+*.pyc
+
+# Construcción y distribución
+build/
+dist/
+*.egg-info/
+
+# Entornos virtuales
+.venv/
+venv/
+
+# Jupyter y VS Code
+.ipynb_checkpoints/
+.vscode/
